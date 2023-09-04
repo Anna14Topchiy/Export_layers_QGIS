@@ -1,7 +1,7 @@
 from qgis.core import QgsProject, QgsVectorLayerExporter
 
 # Укажите путь к папке, в которую вы хотите экспортировать слои
-output_folder = 'C:\\Users\\annat\\OneDrive\\GB\\Drumsheds\\test_scripts'
+output_folder = '***your path'
 
 # Получите текущий проект QGIS
 project = QgsProject.instance()
